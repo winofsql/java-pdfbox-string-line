@@ -6,7 +6,7 @@ Apache PDFBox で テキストと罫線
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\app\\java21\\pdfbox-app-2.0.24.jar"
+        "\\app\\workspace\\lib\\pdfbox-app-2.0.24.jar"
     ]
 }
 ```
